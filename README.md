@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Trishank Reddy  
+# 👋 Hey there! I'm Subramanya Trishank Reddy M  
 
 🌟 *Turning ideas into reality, one line of code at a time!*  
 
