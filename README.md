@@ -8,7 +8,7 @@
 - 👀 **Interests:** Full Stack Development, IoT, Machine Learning, and AI-powered applications  
 - 🌱 **Currently Learning:** MERN Stack, PHP, MySQL, and AI model integration  
 - 💞️ **Looking to Collaborate On:** Open-source projects, web & mobile apps, IoT solutions  
-- 📫 **Reach Me At:** [📧 Email](mailto:your.email@example.com) | [💼 LinkedIn](https://www.linkedin.com/in/yourprofile) | [🌐 Portfolio](https://yourwebsite.com)  
+- 📫 **Reach Me At:** [📧 Email](trishanktrishank787@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/subramanya-trishank-reddy-mukkamalla-54402b291/) | [🌐 Portfolio](https://drive.google.com/file/d/1BaEjcalPUvjy8BijBmycAoiZ1UEXr4TK/view)  
 - 😄 **Pronouns:** He/Him  
 - ⚡ **Fun Fact:** I can debug faster with coffee in hand ☕  
 
