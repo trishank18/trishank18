@@ -5,7 +5,7 @@
 🌐 **Portfolio:** [View Here](https://drive.google.com/file/d/1BaEjcalPUvjy8BijBmycAoiZ1UEXr4TK/view)  
 
 ---
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trishank18" alt="trishank18" /></a> </p>
 🌟 *Turning ideas into reality, one line of code at a time!*  
 
 ---
