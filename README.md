@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Subramanya Trishank Reddy M  
 ![Profile Views](https://komarev.com/ghpvc/?username=trishank18&label=Profile%20Views&color=0e75b6&style=flat)  
-📧 **Email:** [mukkamallatrishankreddy@gmail.com](mailto: mukkamallatrishankreddy@gmail.com)  
+📧 **Email:** [mukkamallatrishankreddy@gmail.com].
 💼 **LinkedIn:** [linkedin.com/in/subramanya-trishank-reddy-mukkamalla-54402b291](https://www.linkedin.com/in/subramanya-trishank-reddy-mukkamalla-54402b291/)  
 🌐 **Portfolio:** [View Here](https://trishankreddy.netlify.app)  
 
