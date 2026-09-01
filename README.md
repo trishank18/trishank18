@@ -1,6 +1,6 @@
-👋 Hey, I'm Trishank Reddy
+👋 Hey, I'm Subramanya Trishank Reddy M
 
-🚀 Full-Stack Developer | Data Science | Machine Learning | IoT
+🚀 Data Science | Machine Learning | Full-Stack Developer | IoT
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=trishank18&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
