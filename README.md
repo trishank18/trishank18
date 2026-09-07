@@ -1,84 +1,73 @@
-👋 Hey, I'm Subramanya Trishank Reddy M
+👋 Hi, I'm Subramanya Trishank Reddy M
 
-🚀 Data Science | Machine Learning | Full-Stack Developer | IoT
+🚀 Data Science • Machine Learning • Full-Stack • IoT
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=trishank18&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p><p align="center">
   <a href="https://trishankreddy.netlify.app">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0e75b6?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-0e75b6?style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/subramanya-trishank-reddy-mukkamalla-54402b291/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:mukkamallatrishankreddy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail"/>
   </a>
+  <a href="https://leetcode.com/u/Trishankreddy/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+</p><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=trishank18&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
 </p>---
 
 🧑‍💻 About Me
 
-I'm a Computer Science undergraduate specializing in Data Science with hands-on experience building full-stack applications, machine learning systems, IoT solutions, and data-driven applications.
+«Computer Science undergraduate specializing in Data Science, passionate about building practical technology that combines software, data, AI, and IoT.»
 
-I enjoy turning ideas into practical products — from collecting real-world sensor data with ESP32 to building scalable web applications and intelligent ML systems.
+I enjoy transforming ideas into real-world applications — from collecting sensor data with ESP32 to developing full-stack platforms and machine-learning systems.
 
-- 🎓 B.Tech CSE — Data Science @ SRM Institute of Science & Technology
-- 💻 Focused on Full-Stack Development & Data Science
-- 🤖 Interested in AI/ML, Computer Vision & IoT
-- 🧠 150+ DSA problems solved
-- 🏆 Top 10 Finalist — OODP Hackathon 2023
-- ⚡ 1650+ LeetCode Contest Rating
-- 👥 Operations Head — DSA Club, SRMIST
-- ☁️ Exploring AWS & Cloud Deployment
+🎓 B.Tech CSE — Data Science
+🏫 SRM Institute of Science & Technology
 
----
+⚡ Quick Stats
 
-⚡ What I Build
-
-🌐 Full-Stack Applications
-        ↓
-⚛️ React + Node.js + Express + MongoDB
-
-🤖 Machine Learning Systems
-        ↓
-🐍 Python + TensorFlow + Keras + Scikit-learn
-
-📡 IoT Solutions
-        ↓
-🔌 ESP32 + Sensors + MQTT + Embedded C
-
-📊 Data Applications
-        ↓
-🐼 Pandas + NumPy + Power BI + SQL
+💻 Focus| 📊 Experience
+Full-Stack Development| React • Node • Express • MongoDB
+Data Science| Python • Pandas • NumPy • SQL
+AI / ML| TensorFlow • Keras • Scikit-learn
+IoT| ESP32 • Arduino • Sensors • MQTT
+Problem Solving| 150+ DSA Problems
+LeetCode| 1650+ Contest Rating
+Leadership| Operations Head — DSA Club
+Hackathon| Top 10 Finalist — OODP 2023
 
 ---
 
-🛠️ Tech Arsenal
+🛠️ Tech Stack
 
 👨‍💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,php,html,css" />
-</p>🌐 Full Stack
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,php,html,css"/>
+</p>🌐 Full-Stack Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,bootstrap" />
-</p>🤖 AI / Data Science
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,bootstrap"/>
+</p>🤖 AI & Data Science
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn"/>
 </p>"Pandas" • "NumPy" • "OpenCV" • "Keras" • "CNN" • "Deep Learning"
 
 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>"MongoDB Atlas" • "Database Design" • "SQL" • "Query Optimization"
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>"MongoDB Atlas" • "SQL" • "Database Design" • "Query Optimization"
 
-☁️ Cloud & Tools
+☁️ Cloud & Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,git,github,linux,vscode,arduino" />
+<img src="https://skillicons.dev/icons?i=aws,git,github,linux,vscode,arduino"/>
 </p>"XAMPP" • "Power BI" • "REST APIs" • "Git" • "GitHub"
 
 🔌 IoT & Embedded
@@ -89,127 +78,173 @@ I enjoy turning ideas into practical products — from collecting real-world sen
 
 🚀 Featured Projects
 
-🏥 MedConnect — Remote Patient Monitoring
+<table>
+<tr>
+<td width="50%">🏥 MedConnect
 
-IoT + Machine Learning + Full Stack
+Remote Patient Monitoring
 
-Built an IoT-based patient monitoring platform using ESP32 and MAX30102 sensors for real-time vital monitoring.
+IoT + ML + Full Stack
 
-✨ Highlights:
+An IoT-based patient monitoring platform using ESP32 and MAX30102 sensors for real-time vital monitoring.
 
-- 📡 Real-time sensor data collection
-- 🤖 ML-powered health data analysis
-- 🔐 Secure authentication
-- 📊 Real-time monitoring dashboard
-- 👥 Designed to support ~50 concurrent users
-- 🧠 Predictive insights from collected health data
+Highlights
 
-🔗 "View Project" (https://github.com/trishank18/medconnect)
+- 📡 Real-time sensor collection
+- 🤖 ML-powered analysis
+- 🔐 Authentication
+- 📊 Monitoring dashboard
+- 👥 ~50 concurrent users
+- 🧠 Predictive insights
 
----
+<a href="https://github.com/trishank18/medconnect">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a></td><td width="50%">👕 MittsuThreads
 
-👕 MittsuThreads — MERN E-Commerce
+MERN E-Commerce
 
-React + Node.js + Express + MongoDB
+React + Node + Express + MongoDB
 
-A full-stack e-commerce platform designed for product management, inventory tracking and online purchases.
+A full-stack clothing e-commerce platform with product, inventory, payment, and admin management.
 
-✨ Highlights:
+Highlights
 
 - 🛍️ 50+ products
-- 🔐 Authentication & role-based access
-- 💳 Razorpay payment integration
+- 🔐 Role-based authentication
+- 💳 Razorpay integration
 - 📦 Inventory management
 - 📊 Admin dashboard
-- 🔌 REST APIs
 - ☁️ MongoDB Atlas
+- 🔌 REST APIs
 
-🔗 "View Project" (https://github.com/trishank18/MittsuThreads-Online-Clothing-Store)
-
----
-
-🌱 Potato Leaf Disease Detection
+<a href="https://github.com/trishank18/MittsuThreads-Online-Clothing-Store">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a></td>
+</tr><tr>
+<td width="50%">🌱 Potato Leaf Disease Detection
 
 Computer Vision + Deep Learning
 
-Developed a CNN-based image classification system to detect potato leaf diseases.
+CNN-based image classification system for detecting potato leaf diseases.
 
-✨ Highlights:
+Highlights
 
 - 🧠 TensorFlow + Keras
 - 🖼️ Image preprocessing
 - 🔄 Data augmentation
 - 📈 Model optimization
-- 🎯 ~94% classification accuracy
+- 🎯 ~94% accuracy
 - 🛡️ Reduced overfitting
 
----
+</td><td width="50%">💡 More Projects
 
-📊 GitHub Analytics
+I'm continuously building projects around:
+
+- 🤖 Artificial Intelligence
+- 📊 Data Science
+- 🌐 Full-Stack Development
+- 🔌 IoT
+- ☁️ Cloud Computing
+- 🧠 Generative AI
+
+</td>
+</tr>
+</table>---
+
+📊 GitHub Dashboard
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=trishank18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishank18&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p><p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trishank18&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trishank18&theme=tokyonight&hide_border=true"/>
 </p>---
 
-🧠 DSA Journey
+🧠 DSA & Problem Solving
 
 <p align="center">🏆 150+ Problems Solved
 
 ⚡ 1650+ LeetCode Contest Rating
 
-</p>I'm continuously improving my problem-solving skills through:
+</p>📚 Topics
 
-"Arrays" • "Strings" • "Linked Lists" • "Trees" • "Graphs" • "Dynamic Programming" • "Greedy" • "Binary Search"
+"Arrays" "Strings" "Linked Lists" "Trees" "Graphs" "Dynamic Programming" "Greedy" "Binary Search"
 
-🔗 "My LeetCode Profile" (https://leetcode.com/u/Trishankreddy/)
-
----
+<p align="center">
+<a href="https://leetcode.com/u/Trishankreddy/">
+<img src="https://img.shields.io/badge/🧠_View_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+</p>---
 
 🏆 Achievements
 
-Achievement| Details
+🏅 Achievement| 📌 Details
 🥇 Hackathon| Top 10 / 200+ — OODP Hackathon 2023
-🧠 DSA| 150+ problems solved
-⚡ LeetCode| 1650+ contest rating
+🧠 DSA| 150+ Problems Solved
+⚡ LeetCode| 1650+ Contest Rating
 👥 Leadership| Operations Head — DSA Club
 🎯 Team Management| Led a 15-member team
-🎤 Events| Organized 8 technical events
-👨‍👩‍👧‍👦 Community| 500+ attendees across events
+🎤 Events| Organized 8 Technical Events
+👨‍👩‍👧‍👦 Community| 500+ Attendees
 💡 Innovation| Best Implementation — Faculty Commendation
 
 ---
 
 📜 Certifications
 
-- ☁️ AWS Academy — Machine Learning Foundations
-- 📊 Google Data Analytics Capstone
-- 🔌 Arduino & Embedded Systems — Udemy
-- 🤖 Raspberry Pi IoT — Udemy
+🎓 AWS Academy — Machine Learning Foundations
+
+📊 Google Data Analytics — Capstone
+
+🔌 Arduino & Embedded Systems — Udemy
+
+🤖 Raspberry Pi IoT — Udemy
 
 ---
 
 🌱 Currently Exploring
 
-+ Advanced Data Structures & Algorithms
-+ Machine Learning
-+ Generative AI
-+ Cloud Computing
-+ Scalable Backend Systems
-+ Data Engineering
+Advanced DSA
+     ↓
+Machine Learning
+     ↓
+Generative AI
+     ↓
+Data Engineering
+     ↓
+Cloud Computing
+     ↓
+Scalable Backend Systems
+
+---
+
+🎯 My Current Focus
+
+┌─────────────────────────────────────┐
+│       🚀 BUILD • LEARN • SOLVE      │
+├─────────────────────────────────────┤
+│                                     │
+│  🤖 AI / ML                         │
+│  📊 Data Science                    │
+│  🌐 Full-Stack Development          │
+│  ☁️ Cloud & Data Engineering        │
+│  🧠 DSA & Competitive Programming   │
+│  🔌 IoT & Embedded Systems           │
+│                                     │
+└─────────────────────────────────────┘
 
 ---
 
 🤝 Let's Connect
 
-<p align="center"><a href="https://www.linkedin.com/in/subramanya-trishank-reddy-mukkamalla-54402b291/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<p align="center"><a href="https://trishankreddy.netlify.app">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Explore-0e75b6?style=for-the-badge"/>
+</a><a href="https://www.linkedin.com/in/subramanya-trishank-reddy-mukkamalla-54402b291/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a><a href="mailto:mukkamallatrishankreddy@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
-</a><a href="https://trishankreddy.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Explore-black?style=for-the-badge&logo=googlechrome"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail"/>
+</a><a href="https://leetcode.com/u/Trishankreddy/">
+<img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode"/>
 </a></p>---
 
 💭 Developer Philosophy
