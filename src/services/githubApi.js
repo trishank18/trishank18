@@ -1,9 +1,8 @@
 import { readCache, writeCache } from '../utils/cache.js';
 const base = import.meta.env.VITE_GITHUB_API_BASE || 'https://api.github.com';
 const headers = { Accept: 'application/vnd.github+json', 'X-GitHub-Api-Version': '2022-11-28' };
-async function get(url, { retries = 2 } = {}) {
-  const key = url.replace(base, ''); const cached = readCache(key);
-  if (cached) return cached;
+const inFlight = new Map();
+async function request(url, key, { retries = 2 } = {}) {
   let last;
   for (let attempt = 0; attempt <= retries; attempt++) {
     try {
@@ -14,6 +13,12 @@ async function get(url, { retries = 2 } = {}) {
     } catch (e) { last = e; if (attempt < retries) await new Promise(r => setTimeout(r, 500 * (attempt + 1))); }
   }
   throw last;
+}
+async function get(url, options = {}) {
+  const key = url.replace(base, ''); const cached = readCache(key);
+  if (cached) return cached;
+  if (!inFlight.has(key)) inFlight.set(key, request(url, key, options));
+  try { return await inFlight.get(key); } finally { inFlight.delete(key); }
 }
 export async function getProfile(user) { return get(`${base}/users/${encodeURIComponent(user)}`); }
 export async function getAllRepositories(user) {
