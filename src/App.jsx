@@ -71,4 +71,21 @@ function RepoCard({repo}) { return <article className="repo-card glass"><div cla
 function SocialLink({href,label,icon:Icon}) { return cleanUrl(href)?<a className="social-icon" href={cleanUrl(href)} aria-label={label} title={label} target={href.startsWith('mailto:')?'_self':'_blank'} rel="noreferrer"><Icon size={17}/></a>:null; }
 function EmptyChart({message}) { return <div className="chart-loading">{message}</div>; }
 function GraduationIcon(){return <span style={{fontSize:18}}>⌂</span>}
+function CountUp({ value }) {
+  const [count, setCount] = useState(0);
+  useEffect(() => {
+    const duration = 700;
+    const started = performance.now();
+    let frame;
+    const animate = now => {
+      const progress = Math.min((now - started) / duration, 1);
+      setCount(Math.round(value * progress));
+      if (progress < 1) frame = requestAnimationFrame(animate);
+    };
+    frame = requestAnimationFrame(animate);
+    return () => cancelAnimationFrame(frame);
+  }, [value]);
+  return count.toLocaleString();
+}
+
 export default App;
