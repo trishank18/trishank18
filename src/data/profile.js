@@ -1,5 +1,8 @@
 export const profile = {
   username: 'Trishank18',
+  name: 'Subramanya Trishank Reddy Mukkamalla',
+  address: '21/552, Muni Reddy Colony, Jammalamadugu, 516434, Andhra Pradesh',
+  phone: '7075356362',
   intro: 'I am a Computer Science and Engineering graduate specializing in Data Science. I am interested in Artificial Intelligence, Machine Learning, Generative AI, Retrieval-Augmented Generation, and Full Stack Development. I enjoy building practical applications that combine intelligent systems, data analytics, and modern web technologies.',
   education: 'Computer Science and Engineering · Data Science',
   interests: ['Artificial Intelligence', 'Machine Learning', 'Generative AI', 'Retrieval-Augmented Generation', 'Full Stack Development'],
