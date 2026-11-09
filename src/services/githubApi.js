@@ -1,5 +1,6 @@
 import { readCache, writeCache } from '../utils/cache.js';
-const base = import.meta.env.VITE_GITHUB_API_BASE || 'https://api.github.com';
+const configuredBase = import.meta.env.VITE_GITHUB_API_BASE?.trim() || 'https://api.github.com';
+const base = configuredBase.replace(/\/users\/[^/]+\/?$/i, '').replace(/\/+$/, '');
 const headers = { Accept: 'application/vnd.github+json', 'X-GitHub-Api-Version': '2022-11-28' };
 const inFlight = new Map();
 async function request(url, key, { retries = 2 } = {}) {
